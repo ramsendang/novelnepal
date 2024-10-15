@@ -1,0 +1,1 @@
+This project is build upon wordpress. There are two database file and one project file. If you want to use the project in your local machine you have to download project file and the database file and set it up in the local server.
